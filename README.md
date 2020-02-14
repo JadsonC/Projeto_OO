@@ -1,7 +1,7 @@
 # Projeto_OO
 Projeto de orientação a objetos da disciplina: Projeto de Sofware
 
-O objetivo do projeto é criar um sistema que deve conter as funcionalidades de uma biblioteca e que traga interação entre os leitores. Assim os usuários poderão trocar experiências a respeito dos livros lidos.
+O objetivo do projeto é criar um sistema que deve conter as funcionalidades de uma biblioteca e que traga praticidade ao leitor.
 
 1 - Cadastrar usuários: o usuário pode se cadastrar no sistema da biblioteca, não sendo necessário comparecer ao local para este fim. O cadastro poderá ser feito online.
 
@@ -19,6 +19,8 @@ O objetivo do projeto é criar um sistema que deve conter as funcionalidades de 
 
 8 - Mostrar livros disponíveis: tanto como usuário como os administradores poderão ver a lista de todos os livros disponíveis na biblioteca, apresentando título, nome do autor, ano de lançamento e gênero.
 
-9 - Comentários: O usuário poderar fazer comentários que poderão ser vistos por outros usuários a respeito dos livros.
+***projeto feito no netbeans com interface gráfica. Para mostrar informações como o perfil do usuário, será necessário visualizar na própria IDE, fora da interface gráfica.
+logar em administrador...Login: admin, Senha: admin
+Padrões: MVC: pacotes Controller e Controller.Helper
+         DAO: pacote Model.DAO
 
-10 - Like/deslike - O usuário poderar marcar o livro como: gostei ou não gostei. A quantidade de likes e deslikes poderá ser vista por outros usuários.
