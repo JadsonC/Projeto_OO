@@ -19,8 +19,12 @@ O objetivo do projeto é criar um sistema que deve conter as funcionalidades de 
 
 8 - Mostrar livros disponíveis: tanto como usuário como os administradores poderão ver a lista de todos os livros disponíveis na biblioteca, apresentando título, nome do autor, ano de lançamento e gênero.
 
-***projeto feito no netbeans com interface gráfica. Para mostrar informações como o perfil do usuário, será necessário visualizar na própria IDE, fora da interface gráfica.
-logar em administrador...Login: admin, Senha: admin
-Padrões: MVC: pacotes Controller e Controller.Helper
-         DAO: pacote Model.DAO
+***projeto feito no netbeans com interface gráfica. Para mostrar informações como o perfil do usuário, será necessário visualizar na própria IDE, fora da interface gráfica.***
 
+***logar em administrador...Login: admin, Senha: admin***
+
+***Padrão MVC: pacotes Controller e Controller.Helper***
+
+***Padrão DAO: pacote Model.DAO***
+         
+        
